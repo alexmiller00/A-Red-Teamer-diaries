@@ -5,7 +5,7 @@
 
 
 Publicly accessible notes about my pentesting/red teaming experiments tested on several controlled environments/infrastructures that involve playing with various tools and techniques used by penetration testers and redteamers during a security assessment.
-
+Amilli187 notes
 - [x] Project in progress
 
 ### Contribute
